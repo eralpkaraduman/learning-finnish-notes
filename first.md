@@ -1,0 +1,87 @@
+---
+First
+---
+
+etu = front?
+taka = back?
+
+minä olen koira !== minulla on koira
+i am a dog !== i have a dog
+
+sanasto: vocabulary?
+sanakirja.org
+
+lirja = book?
+kirje = mail?
+kirjasto = library
+  sto = collection (kirja-sto)
+kirjoittaa = write
+
+saari - saaristo ( sto=collection, saaristo = archipelago, saari = island )
+
+eugene holman
+
+
+# Sivu 9
+
+sivu = page
+
+kisa !== kissa
+competition !== cat
+
+kivi = rock
+kiivi = kivi (the fruit)
+tuli = fire?
+tulli = customs
+
+hiha = sweater?
+
+olet-ko sinä suomalainen? = are you finnish??
+
+missä asut = where do you live??
+
+# Sivu 11
+
+jo = already
+joo = yes
+
+no=well
+tuota/totta ( pronounced that way )
+
+miten se kirjoitetaan ( how it is written (your name) )
+
+tauko = break?
+
+# Sivu 12
+
+Huomiseen! ( see you (tomorrow?) )
+näkemiin
+
+ei se mitään ( no problem?, as in answer to anteeksi )
+
+# Sivu 13
+
+mikä päivä tänään on? ( what day is today )
+tänään on maanantai (today)
+huomenna on maanantai (tomorrow)
+eilen oli sunnuntai ( past tense / yesterday was sunday )
+toissapäivâ ( the day before? )
+ylihuomenna ( the day after? over tomorrow )
+
+when? -> milloin?
+maanantaina minä olen kursilla
+
+# Sivu 14
+
+Kympi = tenner?
+
+# Sivu 15
+
+eläin = creature? 
+asia = ?
+thing = esine
+
+sää = weather?
+
+Homework? 18 -19
+
