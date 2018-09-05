@@ -1,3 +1,8 @@
 {
-  "editor.fontSize": 16
+  "editor.fontSize": 16,
+  "workbench.editor.showTabs": true,
+  "zenMode.hideTabs": true,
+  "zenMode.fullScreen": true,
+  "zenMode.centerLayout": true,
+  "zenMode.hideStatusBar": true
 }
