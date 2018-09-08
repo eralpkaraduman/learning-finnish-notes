@@ -4,5 +4,7 @@
   "zenMode.hideTabs": true,
   "zenMode.fullScreen": true,
   "zenMode.centerLayout": true,
-  "zenMode.hideStatusBar": true
+  "zenMode.hideStatusBar": true,
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true
 }
