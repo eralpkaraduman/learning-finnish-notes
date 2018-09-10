@@ -7,7 +7,7 @@ opettaja: teacher
 yötä: night
 viikonloppu: weekend
 toissapäivänä: day before yesterday
-edilen: yesterday
+eilen: yesterday
 huomenna: tomorrow
 ylihuomenna: day after tomorrow
 minä: I, me
@@ -32,7 +32,7 @@ sanoa: say, tell
 etsiä: search
 muuttaa: move
 lentää: fly
-kirjoita: wrote
+kirjoita: write
 kuuntele: listen
 harjoitus: exercise
 kappale: chapter

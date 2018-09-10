@@ -5,6 +5,5 @@
   "zenMode.fullScreen": true,
   "zenMode.centerLayout": true,
   "zenMode.hideStatusBar": true,
-  "editor.trimAutoWhitespace": true,
-  "files.trimTrailingWhitespace": true
+  "editor.trimAutoWhitespace": true
 }
