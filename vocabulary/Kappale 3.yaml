@@ -1,8 +1,5 @@
 pomo: boss
 johtaja: leader
-helppo: easy
-vaikea: difficult
-muuttaa: move
 oikein: correct
 väärin: wrong
 sää: weather
@@ -116,8 +113,43 @@ harmaa: gray
 oranssi: orange
 liila: lilac
 purple: sinipunainen
-
-
-
-
-
+voida: can
+tietysti: of course
+auttaa: help
+tietää: know
+kenen: whose
+antaa: give
+kääntää: turn
+lentää: fly
+pukea: get dressed
+ymmärtää: understand
+meri: sea
+kirkko: church
+aste: degree
+aina: always
+loska: slush
+tunti: hour
+pitkä: long
+lyhyt: short
+jo: already
+puu: wood
+kukka: flower
+kukkia: blossom
+loma: holiday
+mökki: cottage
+uida: swim
+sieni: mushroom
+tunturi: mountain
+marja: berry
+leipoa: bake
+leipuri: baker
+lähteä: go
+ajaa: drive
+odottaa: await
+saapua: arrive
+ostaa: buy
+sanoa: say
+kertoa: tell
+istua: sit
+kirja: book
+monta: many
