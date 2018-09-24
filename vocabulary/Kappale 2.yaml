@@ -4,7 +4,7 @@ opiskelijat: student
 mennä: go
 säästää: save
 rahaa: money
-sitten: since, ago
+sitten: then
 istua: sit
 puisto: park
 nauraa: laugh
@@ -13,9 +13,9 @@ kotoisin: a native of
 kieli: language
 äidinkieli: motherlanguage
 myös: also
-vähän: a few, little
-paljon: a lot, much
-tietysti: of course, certainly
+vähän: a few
+paljon: a lot
+tietysti: of course
 asua: live
 bussi: bus
 koti: home
@@ -23,28 +23,28 @@ vaan: but
 tulla: come
 kello: clock
 mutta: but
-ostaa: buy, purchase
-maksaa: pay, cost
+ostaa: purchase
+maksaa: pay
 entä: that
-ajaa: ride, drive
-pysäkki: (bus) stop
+ajaa: drive
+pysäkki: durak
 pohjoinen: north
 etelä: south
 länsi: west
 itä: east
 pallo: ball
-haluta: want, desire
--kin: also (minä-kin= me too)
+haluta: want
+-kin: too
 mansikkaa: strawberry
 tässä: here
 tämä: this
-seteli: bill, banknote
+seteli: bill
 kolikko: coin
 halpa: cheap
 kallis: expensive
 tanssi: dance
 laulaa: sing
-katsoa: watch, look
+katsoa: watch
 kuka: who
 kuinka: how
 milloin: when
@@ -54,16 +54,16 @@ miksi: why
 missä: where
 mistä: from wheren
 mihin: where
-millainen: what kind of, how
+millainen: what kind of
 lause: sentence
 sana: word
-järjestys: order, sequence
+järjestys: sequence
 vahva: strong
 heikko: weak
 perussääntö: ground rule
 sääntö: rule
 perus: basic
-lukea: read, study
+lukea: read
 teksti: text
 matkustaa: travel
 rakastaa: love
@@ -71,12 +71,12 @@ seisoa: to stand
 lippu: ticket
 lippu: flag
 opiskella: study
-alkaa: begin, start
+alkaa: begin
 koska: because
 siksi: therefore
 vuosi: year
 kaikki: everybody
-ruoka: food, meal
+ruoka: food
 tauko: break, rest
 kirja: book
 sanakirja: dictionary
