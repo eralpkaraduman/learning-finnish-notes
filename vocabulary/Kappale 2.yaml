@@ -32,6 +32,7 @@ pohjoinen: north
 etelä: south
 länsi: west
 itä: east
+maa: earth
 pallo: ball
 haluta: want
 -kin: too
@@ -67,6 +68,7 @@ lukea: read
 teksti: text
 matkustaa: travel
 rakastaa: love
+maa: world
 seisoa: to stand
 lippu: ticket
 lippu: flag
@@ -80,6 +82,4 @@ ruoka: food
 tauko: break, rest
 kirja: book
 sanakirja: dictionary
-maa: earth
-maa: world
 maa: country
